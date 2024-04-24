@@ -7,6 +7,7 @@ public class test {
 		System.out.println("Test is passed");
 		System.out.println("clskjflksdgj");
 		System.out.println("clskjdgj");
+		System.out.println("Jargal bna");
 		
 	}
 
